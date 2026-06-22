@@ -1,0 +1,69 @@
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.AssemblyReference.cache
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe.config
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.LoginForm.resources
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.AdminDashboard.resources
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.CustomerDashboard.resources
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManagerDashboard.resources
+E:\class work c sharp\New semester\1st class\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.RegisterForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.AssemblyReference.cache
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe.config
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.AdminDashboard.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.LoginForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManagerDashboard.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.RegisterForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManageCustomersForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManageManagersForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ProfileForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.BrowseBooksForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.CartForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.CustomerDashboard.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManageBooksForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManageOrdersForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.OrderHistoryForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.OrderPlacedForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.PaymentForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SalesReportForm.resources
+C:\Users\rahat\Downloads\OnlineBookStore_separate_testing_v2\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ViewCustomersForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe.config
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.AdminDashboard.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.BrowseBooksForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.CartForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.CustomerDashboard.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.LoginForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManageBooksForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManageCustomersForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManageManagersForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManageOrdersForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ManagerDashboard.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.OrderHistoryForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.OrderPlacedForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.PaymentForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ProfileForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.RegisterForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SalesReportForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ViewCustomersForm.resources
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\User\Desktop\cSharp\ZAHID SIR\OnlineBookStore\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
